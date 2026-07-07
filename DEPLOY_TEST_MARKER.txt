@@ -1,1 +1,0 @@
-reboot-update-test: if this file is on a Pi, its boot updater pulled from fw-cycle-monitor-pi.
